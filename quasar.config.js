@@ -37,7 +37,7 @@ export default defineConfig((ctx) => {
     // Full list of options: https://v2.quasar.dev/quasar-cli-webpack/quasar-config-file#build
     build: {
       // publicPath: '/',
-      vueRouterMode: 'hash', // available values: 'hash', 'history'
+      publicPath: '/6704101356-photjama-kucher/',
 
       // webpackTranspile: false,
 
